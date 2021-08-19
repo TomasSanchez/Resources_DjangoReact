@@ -106,7 +106,3 @@
 
 
 
-
-(gh repo)
-(stackO question)
-(Resource)
