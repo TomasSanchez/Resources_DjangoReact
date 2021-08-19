@@ -2,7 +2,7 @@
 
 ## [Authentication](#Authentication)
 
-## [Channels](#Channels)
+## [Channels](#Channels-1)
 
 ## [](#)
 ## [](#)
