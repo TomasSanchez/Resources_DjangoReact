@@ -12,53 +12,34 @@
 
 <br/>
 
----
-  
 <br/>
 
 # Deployment
 
-<br/>
-
-You can use django as a container for your react app:
-[Django + react](https://stackoverflow.com/questions/53517329/deploying-seprate-react-frontend-and-django-drf-api)
 
 <br/>
 
----
-<br/>
-Heroku
-
-[Heroku guide](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa)
+- [Django + react](https://stackoverflow.com/questions/53517329/deploying-seprate-react-frontend-and-django-drf-api) (StackO question)
+    
+    > You can use django as a container for your react app:
 
 <br/>
-
----
 <br/>
 
-asdasdsad
+### Heroku
+
+- [Heroku guide](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa) (Resource)
 
 <br/>
 
----
-<br/>
+### Docker
 
-asdasdsad
-
-<br/>
-
----
-<br/>
-
-asdasdsad
+<!-- - [Heroku guide](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa) (Resource) -->
 
 <br/>
 
----
+### DigitalOcean
+
+<!-- - [Heroku guide](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa) (Resource) -->
+
 <br/>
-
-asdasdsad
-
-<br/>
-
----
