@@ -1,15 +1,15 @@
 # Django Resources
 
-## [Authentication](#Authentication)
+ [Authentication](#Authentication)
 
-## [Channels](#Channels-1)
+ [Channels](#Channels-1)
 
-## [](#)
-## [](#)
+ [](#)
+ [](#)
 
-## [Python code formatters](#Python-code-formatters)
+ [Python code formatters](#Python-code-formatters)
 
-## [Python Style](#Python-Style)
+ [Python Style](#Python-Style)
 
 <br/>
 
