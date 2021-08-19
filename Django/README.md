@@ -2,9 +2,10 @@
 
  [Authentication](#Authentication)
 
- [Channels](#Channels-1)
+ [Channels](#Channels)
 
  [](#)
+
  [](#)
 
  [Python code formatters](#Python-code-formatters)
@@ -13,41 +14,43 @@
 
 <br/>
 
----
+
 
 ## Authentication 
 
 <br/>
 
-[Django Session-based Auth for Single Page Apps](https://testdriven.io/blog/django-spa-auth/)
+- [Django Session-based Auth for Single Page Apps](https://testdriven.io/blog/django-spa-auth/)
 
-> This tutorial covers the following approaches for combining Django with a frontend library or framework:
->* Serve up the framework via Django templates
->* Serve up the framework separately from Django on the same domain
->* Serve up the framework separately from Django with Django REST Framework on the same domain
->* Serve up the framework separately from Django on a different domain
+    > This tutorial covers the following approaches for combining Django with a frontend library or framework:
+    >* Serve up the framework via Django templates
+    >* Serve up the framework separately from Django on the same domain
+    >* Serve up the framework separately from Django with Django REST Framework on the same domain
+    >* Serve up the framework separately from Django on a different domain
 
-[Repo](https://github.com/duplxey/django-spa-cookie-auth)
+    <br/>
 
-<br/>
-
----
-<br/>
-
-[Project with auth](https://github.com/CryceTruly/trulyexpensesyoutube)
+    [Repo](https://github.com/duplxey/django-spa-cookie-auth)
 
 <br/>
 
----
-<br/>
-
-[Django Step by Step](https://github.com/briancaffey/django-step-by-step/tree/c61855a2fbf7618b72b87df1695cb77080b1b666)
-
-> This is a Django reference project showing how to develop and deploy Django applications using multiple tools and methodologies with best practices and consice examples.
 
 <br/>
 
----
+- [Project with auth](https://github.com/CryceTruly/trulyexpensesyoutube)
+
+<br/>
+
+
+<br/>
+
+- [Django Step by Step](https://github.com/briancaffey/django-step-by-step/tree/c61855a2fbf7618b72b87df1695cb77080b1b666)
+
+    > This is a Django reference project showing how to develop and deploy Django applications using multiple tools and methodologies with best practices and consice examples.
+
+<br/>
+
+
 
 ##  Channels
 
