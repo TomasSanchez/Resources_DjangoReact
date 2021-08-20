@@ -47,3 +47,11 @@ Focused around django with drf as backend and react frontend, covering django ch
 <!-- - [Heroku guide](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa) (Resource) -->
 
 <br/>
+
+
+### Csrf Token Integration
+
+<br/>
+
+- [csrf Integration](https://stackoverflow.com/questions/39254562/csrf-with-django-reactredux-using-axios)
+    > There are three ways. You can manually include the token in the header of each axios call, you can set axios's xsrfHeaderName in each call, or you set a default xsrfHeaderName.
