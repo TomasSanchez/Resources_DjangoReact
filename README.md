@@ -1,6 +1,10 @@
 # Resources_DjangoReact
 
-## A repo to dump all external links and docs for future reference
+A repo to dump all external links and docs for future reference
+
+
+Focused around django with drf as backend and react frontend, covering django channels, redis, celery, views, orm, best practices, react redux, typescript and how to deploy them.
+
 <br/>
 
 ---
