@@ -21,11 +21,13 @@
     > This is a Django reference project showing how to develop and deploy Django applications using multiple tools and methodologies with best practices and consice examples.
 
 <br/>
+<br/>
 
 - [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/) (Resource)
     
     [Blog](https://djangostars.com/blog/)
 
+<br/>
 <br/>
 
 - [Making Sense Of Settings](https://www.mattlayman.com/understand-django/settings/) (Resource)
@@ -35,9 +37,11 @@
     > Understand Django is a series of articles focused on learning the Django web framework to build web applications with Python.
 
 <br/>
+<br/>
 
 - [Django Project Template by Steelkiwi](https://steelkiwi.com/blog/django-project-template-by-steelkiwi/) (Resource)
 
+<br/>
 <br/>
 
 ---
@@ -59,6 +63,12 @@
 <br/>
 
 - [Project with auth](https://github.com/CryceTruly/trulyexpensesyoutube) (gh repo)
+
+<br/>
+<br/>
+
+
+- [Step by Step Guide to Email + Social Logins in Django](https://abhik-b.medium.com/step-by-step-guide-to-email-social-logins-in-django-5e5436e20591) (Resource)
 
 <br/>
 <br/>
@@ -99,6 +109,7 @@
 - [How to send user notifications using django-channels 2.0?](https://stackoverflow.com/questions/51599270/how-to-send-user-notifications-using-django-channels-2-0/51654552#51654552) (stackO question)
 
 <br/>
+<br/>
 
 ---
 
@@ -107,6 +118,7 @@
 
 - [Python code formatters](https://deepsource.io/blog/python-code-formatters/) (Resource)
 
+<br/>
 <br/>
 
 --- 
@@ -121,6 +133,7 @@
     [Git](https://github.com/PyCQA/pycodestyle) (gh repo)
 
 <br/>
+<br/>
 
 --- 
 
@@ -132,3 +145,12 @@
    [Blog](https://findwork.dev/blog/)
    
    > This page will walk you through setting up Django and Postgres, indexing sample data and performing and optimizing full text search.
+
+<br/>
+<br/>
+
+- [How To Use DRF Serializers Effectively in Django](https://betterprogramming.pub/how-to-use-drf-serializers-effectively-dc58edc73998) (Resource)
+
+<br/>
+<br/>
+
