@@ -55,6 +55,24 @@
 
 - [Creating the Web Socket Connection](https://www.fico.com/fico-xpress-optimization/docs/latest/insight5/compute/GUID-2C061610-71F8-431B-BDF0-4C3DAF642D13.html) (Resource)
 
+<br/>
+<br/>
+
+---
+
+## Tailwind Css
+
+<br/>
+
+- [Tailwind Elements](https://tailwind-elements.com) (Resource)
+
+<br/>
+<br/>
+
+- [Tailblocks](https://tailblocks.cc) (Resource)
+
+<br/>
+<br/>
 
 
 
