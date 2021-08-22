@@ -6,21 +6,37 @@
 
  [Channels](#Channels)
 
- [](#)
-
  [Python code formatters](#Python-code-formatters)
 
  [Python Style](#Python-Style)
 
+ [Other](#Other)
+ 
 <br/>
-
-
 
 ## Good Practice
 
 - [Django Step by Step](https://github.com/briancaffey/django-step-by-step/tree/c61855a2fbf7618b72b87df1695cb77080b1b666) (gh repo)
 
     > This is a Django reference project showing how to develop and deploy Django applications using multiple tools and methodologies with best practices and consice examples.
+
+<br/>
+
+- [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/) (Resource)
+    
+    [Blog](https://djangostars.com/blog/)
+
+<br/>
+
+- [Making Sense Of Settings](https://www.mattlayman.com/understand-django/settings/) (Resource)
+    
+    [Blog](https://www.mattlayman.com/understand-django/)
+    
+    > Understand Django is a series of articles focused on learning the Django web framework to build web applications with Python.
+
+<br/>
+
+- [Django Project Template by Steelkiwi](https://steelkiwi.com/blog/django-project-template-by-steelkiwi/) (Resource)
 
 <br/>
 
@@ -104,5 +120,15 @@
 
     [Git](https://github.com/PyCQA/pycodestyle) (gh repo)
 
+<br/>
 
+--- 
 
+## Other
+<br/>
+
+- [Optimizing Postgres full text search in Django](https://findwork.dev/blog/optimizing-postgres-full-text-search-in-django/) (Resource)
+   
+   [Blog](https://findwork.dev/blog/)
+   
+   > This page will walk you through setting up Django and Postgres, indexing sample data and performing and optimizing full text search.
