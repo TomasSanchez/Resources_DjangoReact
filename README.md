@@ -28,7 +28,6 @@ Focused around django with drf as backend and react frontend, covering django ch
     > You can use django as a container for your react app:
 
 <br/>
-<br/>
 
 ### Heroku
 
@@ -59,3 +58,16 @@ Focused around django with drf as backend and react frontend, covering django ch
 <br/>
 
 - [override axios default csrf header and cookie name](https://gist.github.com/paltman/490049a64fa4115a2cea)
+
+<br/>
+
+
+### Blogs
+
+<br/>
+
+- [Valentino's blog on JavaScript and Python](https://www.valentinog.com/blog/)
+
+<br/>
+
+<!-- - [override axios default csrf header and cookie name](https://gist.github.com/paltman/490049a64fa4115a2cea) -->
