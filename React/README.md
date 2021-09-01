@@ -58,6 +58,11 @@
 <br/>
 <br/>
 
+- [Creating a Real Time Chat App using React and Socket IO](https://www.section.io/engineering-education/creating-a-real-time-chat-app-with-react-socket-io-with-e2e-encryption/) (Resource)
+
+<br/>
+<br/>
+
 ---
 
 ## Tailwind Css
