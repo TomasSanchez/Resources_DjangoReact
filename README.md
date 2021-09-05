@@ -78,4 +78,9 @@ Focused around django with drf as backend and react frontend, covering django ch
 
 <br/>
 
+### Other
+
+<br/>
+
+[SVGs](https://www.svgrepo.com)
 
