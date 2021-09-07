@@ -1,8 +1,23 @@
 # React Resources
 
+ [Deploying](#Deploying)
+ 
  [Redux](#Redux)
 
  [Websockets](#Websockets)
+
+<br/>
+
+
+## Deploying
+
+<br/>
+
+[Deploy NextJs to aws s3](https://www.freecodecamp.org/news/how-to-use-github-actions-to-deploy-a-next-js-website-to-aws-s3/)
+
+<br/>
+
+[Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ)
 
 <br/>
 
