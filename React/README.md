@@ -15,11 +15,17 @@
 
 <br/>
 
-- [Deploy NextJs to aws s3](https://www.freecodecamp.org/news/how-to-use-github-actions-to-deploy-a-next-js-website-to-aws-s3/)
+- [Deploy NextJs to aws s3](https://www.freecodecamp.org/news/how-to-use-github-actions-to-deploy-a-next-js-website-to-aws-s3/) (Resource)
 
 <br/>
 
-- [Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ)
+- [Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ) (Yt Video)
+
+<br/>
+
+<br/>
+
+- [aws cloudfront not updating on update of files in s3](https://stackoverflow.com/questions/30154461/aws-cloudfront-not-updating-on-update-of-files-in-s3) (stackO question)
 
 <br/>
 
