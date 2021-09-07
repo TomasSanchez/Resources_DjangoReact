@@ -1,3 +1,5 @@
+## [Django Resources](https://github.com/TomasSanchez/Resources_DjangoReact/tree/main/Django)
+
 # React Resources
 
  [Deploying](#Deploying)
@@ -13,11 +15,11 @@
 
 <br/>
 
-[Deploy NextJs to aws s3](https://www.freecodecamp.org/news/how-to-use-github-actions-to-deploy-a-next-js-website-to-aws-s3/)
+- [Deploy NextJs to aws s3](https://www.freecodecamp.org/news/how-to-use-github-actions-to-deploy-a-next-js-website-to-aws-s3/)
 
 <br/>
 
-[Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ)
+- [Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ)
 
 <br/>
 
