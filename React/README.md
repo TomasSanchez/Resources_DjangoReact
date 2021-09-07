@@ -19,9 +19,11 @@
 
 <br/>
 
-- [Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ) (Yt Video)
+- [Deploy Next to s3 with cloud front and https](https://www.youtube.com/watch?v=lB4DTqMEumY) (Yt Video)
 
 <br/>
+
+- [Deploy NextJs to github](https://www.youtube.com/watch?v=yRz8D_oJMWQ) (Yt Video)
 
 <br/>
 
