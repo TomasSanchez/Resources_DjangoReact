@@ -97,13 +97,14 @@
 - [Tailwind Elements](https://tailwind-elements.com) (Resource)
 
 <br/>
-<br/>
 
 - [Tailblocks](https://tailblocks.cc) (Resource)
 
 <br/>
-<br/>
 
+- [TAILWIND STARTER KIT](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/alerts) (Resource)
+
+<br/>
 
 
 
