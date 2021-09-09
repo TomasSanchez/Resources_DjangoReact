@@ -106,11 +106,11 @@
 
 <br/>
 
+## Other
 
+<br/>
 
+- [Send Emails with react emailjs](https://javascript.plainenglish.io/send-emails-easily-with-react-64240dd0f638) (Resource)
 
-
-
-
-
+<br/>
 
