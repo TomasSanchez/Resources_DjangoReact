@@ -84,3 +84,23 @@ Focused around django with drf as backend and react frontend, covering django ch
 
 [SVGs](https://www.svgrepo.com)
 
+# Coursera
+
+- [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
+    
+    By UNIVERSITY AT BUFFALO & THE STATE UNIVERSITY OF NEW YORK
+
+<br/>
+
+- [Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/specializations/financialtechnology)
+    
+    By UNIVERSITY MICHIGAN
+
+<br/>
+
+- [Blockchain Revolution in Financial Services Specialization](https://www.coursera.org/specializations/blockchain-financial-services)
+    
+    By INSEAD Business School of the world
+
+<br/>
+
