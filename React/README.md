@@ -114,3 +114,7 @@
 
 <br/>
 
+- [15 Stunning CSS Loading Animation ](https://redstapler.co/15-stunning-css-loading-animation/) (Resource)
+
+<br/>
+

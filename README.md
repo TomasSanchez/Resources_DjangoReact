@@ -14,6 +14,8 @@ Focused around django with drf as backend and react frontend, covering django ch
 
 ## [*React Resources*](https://github.com/TomasSanchez/Resources_DjangoReact/tree/main/React)
 
+## [*Crypto Resources*](https://github.com/TomasSanchez/Resources_DjangoReact/tree/main/Crypto)
+
 <br/>
 
 <br/>
