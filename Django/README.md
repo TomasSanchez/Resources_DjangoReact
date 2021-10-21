@@ -44,6 +44,11 @@
 <br/>
 <br/>
 
+- [Tips for building high quality django apps](https://doordash.engineering/2017/05/15/tips-for-building-high-quality-django-apps-at-scale/) (Resource)
+
+<br/>
+<br/>
+
 ---
 
 ## Authentication 
